@@ -1,0 +1,1 @@
+Use bun not npm. The app is already running do not try to run again after every step with bun run dev. Do not try to open preview i dont wanna see it.
