@@ -130,9 +130,9 @@ const About = () => {
                         Your submission must include both the visual design AND working implementation
                     </p>
                     <p className="text-lg text-gray-300 text-center mt-4">
-                        Submit via the official form:{" "}
+                        Submit via the official form{" "}
                         <a href="https://form.typeform.com/to/Hljx9wab" className="text-blue-400 hover:text-blue-300">
-                            submit now
+                            here
                         </a>
                     </p>
                 </div>
