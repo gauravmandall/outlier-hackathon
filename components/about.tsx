@@ -132,7 +132,7 @@ const About = () => {
                     <p className="text-lg text-gray-300 text-center mt-4">
                         Submit via the official form:{" "}
                         <a href="https://form.typeform.com/to/Hljx9wab" className="text-blue-400 hover:text-blue-300">
-                            https://form.typeform.com/to/Hljx9wab
+                            submit now
                         </a>
                     </p>
                 </div>
